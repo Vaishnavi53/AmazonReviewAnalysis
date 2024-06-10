@@ -1,27 +1,27 @@
 # AmazonReviewAnalysis
-This project analyzes Amazon reviews using machine learning to extract insights and sentiment from customer feedback
+This project analyzes Amazon reviews using machine learning to extract insights and sentiment from customer feedback<br>
 
-**Features:**
-1.Review Text
-2.Rating
-3.Product Metadata
+**Features:**<br>
+1.Review Text<br>
+2.Rating<br>
+3.Product Metadata<br>
 
 **Analysis:**
-1.Sentiment Analysis
-2.Topic Modeling
-3.Feature Extraction
+1.Sentiment Analysis<br>
+2.Topic Modeling<br>
+3.Feature Extraction<br>
 
-**Dataset Overview:**
-The dataset includes Amazon product reviews spanning categories like electronics, books, and home appliances. Each review comprises the review text, rating, and product metadata.
+**Dataset Overview:**<br>
+The dataset includes Amazon product reviews spanning categories like electronics, books, and home appliances. Each review comprises the review text, rating, and product metadata.<br>
 
-**Usage:**
--Clone the repository.
--Install dependencies (pandas, numpy, scikit-learn, nltk, matplotlib, seaborn).
--Run the main script/notebook.
--Explore insights and visualizations.
+**Usage:**<br>
+-Clone the repository.<br>
+-Install dependencies (pandas, numpy, scikit-learn, nltk, matplotlib, seaborn).<br>
+-Run the main script/notebook.<br>
+-Explore insights and visualizations.<br>
 
-**Dependencies:**
-Python 3.x
+**Dependencies:**<br>
+Python 3.x<br>
 
-**Libraries:**
-pandas, numpy, scikit-learn, nltk, matplotlib, seaborn
+**Libraries:**<br>
+pandas, numpy, scikit-learn, nltk, matplotlib, seaborn<br>
