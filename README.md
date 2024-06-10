@@ -6,7 +6,7 @@ This project analyzes Amazon reviews using machine learning to extract insights 
 2.Rating<br>
 3.Product Metadata<br>
 
-**Analysis:**
+**Analysis:**<br>
 1.Sentiment Analysis<br>
 2.Topic Modeling<br>
 3.Feature Extraction<br>
